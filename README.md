@@ -3,7 +3,7 @@
 <h3 align="center">Currently pursuing whatever life throws at me!</h3>
 <img align="right" alt="Work!" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hindzsight&label=Profile%20views&color=0e75b6&style=flat" alt="hindzsight" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hindzsight&label=Profile%20views&color=0e75b6&style=flat" alt="itsariin" /> </p>
 
 - 🌱 I’m currently learning : **DSA and CP**
 

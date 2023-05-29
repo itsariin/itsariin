@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Arin Jain</h1>
-<h3 align="center">Currently pursuing whatever life throws at me!</h3>
+<h3 align="center">I like pressing Buttons!!</h3>
 <img align="right" alt="Work!" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsariin&label=Profile%20views&color=0e75b6&style=flat" alt="itsariin" /> </p>
